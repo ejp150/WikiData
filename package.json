@@ -1,0 +1,16 @@
+{
+  "title": "Wikipedia Page Data Aggregator",
+  "name": "wikidata",
+  "version": "0.0.0",
+  "description": "Collects and displays data about chosen Wikipedia page",
+  "main": "index.js",
+  "author": "epoll",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "WPDA-1.0",
+  "keywords": [
+    "jetpack"
+  ]
+}
